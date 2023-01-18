@@ -15,7 +15,7 @@ I love the learning new things and expanding my toolset of knowledge. I love the
 </br>
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+[Visit my website!](https://lucashenderson.com)
 
 ## 🔭 I'm currently working on
 
