@@ -23,9 +23,10 @@ I love the learning new things and expanding my toolset of knowledge. I love the
 
 ## 🌱 I'm currently learning
 
-- Learning Linux
-- Learning git
-- Python networking project
+- Learing Azure
+- Some DevOps practices
+- Practicing git
+- Cloud projects
 - Cloud integration
 
 ## 💼 Technical Skills
